@@ -60,8 +60,6 @@ The workstation was already up and running with Ubuntu 22.04, mostly idle, servi
 
 #### Security Cameras
 
-![All the cameras!](images/Cameras.jpeg)
-
 [Amazon: Amcrest 5MP AI Turret IP PoE Camera w/ 49ft Nightvision](https://www.amazon.com/dp/B0BNM2SGPS)
 
 [Amazon: Amcrest UltraHD 4K (8MP) Outdoor Security POE IP Camera, 3840x2160, 98ft NightVision](https://www.amazon.com/dp/B077Y52782)
@@ -69,6 +67,8 @@ The workstation was already up and running with Ubuntu 22.04, mostly idle, servi
 [Amazon: Amcrest Store](https://www.amazon.com/stores/Amcrest/page/2404E471-79FC-4D18-B767-8777D048264F)
 
 [Amazon: Amcrest NV4108E-A2 4K 8CH POE NVR (1080p/3MP/4MP/5MP/8MP) POE Network Video Recorder](https://www.amazon.com/Amcrest-NV4108E-HS-1080p-Network-Recorder/dp/B0743WP62Q)
+
+![All the cameras!](images/Cameras.jpeg)
 
 
 
@@ -119,13 +119,18 @@ General Network Considerations:
     - Optional, but a good idea if you can
     - Makes setup, configuration and maintenance easier
 
+![West Patio Camera Online!](images/West_Patio_Online.jpeg)
+
+![Driveway Camera Online!](images/East_Camera_Far.jpeg)
+
 Once the cameras are on the network...
 
 ***Now we're ready to add the cameras to ZoneMinder!***
 ## Add Cameras to ZoneMinder
 
+[ZoneMinder Documentation: Adding Monitors](https://zoneminder.readthedocs.io/en/stable/userguide/gettingstarted.html#adding-monitors)
 
-
+[ZoneMinder Documentation: Defining Monitors](https://zoneminder.readthedocs.io/en/stable/userguide/definemonitor.html)
 
 ![Camera Configuration: General](images/Cam_Configuration_General.png)
 
@@ -136,10 +141,14 @@ Once the cameras are on the network...
 
 ## Add Cameras to Groups (Optional)
 
+[]()
+
 ![Cameras: Add to Groups](images/Groups.png)
 
 
 ## Define Camera Zones
+
+[ZoneMinder Documentation: Defining Zones](https://zoneminder.readthedocs.io/en/stable/userguide/definezone.html)
 
 
 
