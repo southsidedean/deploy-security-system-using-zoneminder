@@ -58,7 +58,7 @@ The workstation was already up and running with Ubuntu 22.04, mostly idle, servi
 
 #### Security Cameras
 
-
+![All the cameras!](images/Cameras.jpeg)
 
 [Amazon: Amcrest 5MP AI Turret IP PoE Camera w/ 49ft Nightvision](https://www.amazon.com/dp/B0BNM2SGPS)
 
