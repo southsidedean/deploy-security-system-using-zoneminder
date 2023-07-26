@@ -60,7 +60,7 @@ I've been researching this project for a couple of years, and had set up ZoneMin
 ## Install ZoneMinder Software
 
 
-## Perform a Site Survey
+## Perform a Site Survey: Not Optional!
 
 
 ## Cameras: Physical Installation/Wiring
@@ -68,8 +68,15 @@ I've been researching this project for a couple of years, and had set up ZoneMin
 
 ## Configure Cameras on the Network
 
+General Network Considerations:
 
+- Camera IP Addresses
+    - Static IP or Reserved DHCP IP Addresses
+- DNS: Forward and Reverse
+    - Optional, but a good idea if you can
+    - Makes setup, configuration and maintenance easier
 
+Once the cameras are on the network...
 ## Add Cameras to ZoneMinder
 
 
@@ -80,11 +87,16 @@ I've been researching this project for a couple of years, and had set up ZoneMin
 ![Camera Configuration: Source](images/Cam_Configuration_Source.png)
 
 ![Console: Cameras Configured](images/Console.png)
+
+
 ## Add Cameras to Groups (Optional)
 
 ![Cameras: Add to Groups](images/Groups.png)
 
+
 ## Define Camera Zones
+
+
 
 ![Zone Example 1: Partial Zone](images/Zone_Partial_1.png)
 
@@ -92,13 +104,14 @@ I've been researching this project for a couple of years, and had set up ZoneMin
 
 ![Zone Example 3: Full Zone](images/Zone_Full_1.png)
 
+
+
 ## Configure Montage View
 
 ![Configure Montage View](images/Montage.png)
 
 
 ***That's it!***
-
 
 ## Summary
 
