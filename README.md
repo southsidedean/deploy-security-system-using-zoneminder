@@ -12,6 +12,14 @@ In this tutorial, I'm not going to provide a step-by-step guide, because of the 
 
 ***Let's go!***
 
+## Resources
+
+[ZoneMinder](https://zoneminder.com/)
+
+[ZoneMinder Documentation](https://zoneminder.readthedocs.io/en/stable/)
+
+[ZoneMinder Documentation: Installation Guide](https://zoneminder.readthedocs.io/en/stable/installationguide/index.html)
+
 ## High-Level Thinking
 
 
@@ -46,18 +54,36 @@ I have a **Dell Precision T5500** workstation sitting under my desk, which I rec
 - 72GB of RAM
 - Decent GPU, possible future use?
 
-The workstation was already up and running with Ubuntu 22.04, mostly idle, serving as an development server at this point.  Yes, it's kind of old, but it's still a trooper, like me.
+The workstation was already up and running with Ubuntu 22.04, mostly idle, serving as an development server.  Yes, it's kind of old, but it's still a trooper, like me.
 
 #### Security Cameras
 
 
+
+[Amazon: Amcrest 5MP AI Turret IP PoE Camera w/ 49ft Nightvision](https://www.amazon.com/dp/B0BNM2SGPS)
+
+[Amazon: Amcrest UltraHD 4K (8MP) Outdoor Security POE IP Camera, 3840x2160, 98ft NightVision](https://www.amazon.com/dp/B077Y52782)
+
+[Amazon: Amcrest Store](https://www.amazon.com/stores/Amcrest/page/2404E471-79FC-4D18-B767-8777D048264F)
+
+[Amazon: Amcrest NV4108E-A2 4K 8CH POE NVR (1080p/3MP/4MP/5MP/8MP) POE Network Video Recorder](https://www.amazon.com/Amcrest-NV4108E-HS-1080p-Network-Recorder/dp/B0743WP62Q)
+
+[Amazon: TP-Link TL-SG1005P 5 Port Gigabit PoE Switch 4 PoE+ Ports @65W](https://www.amazon.com/dp/B076HZFY3F)
+
+
+
 ### NVR Software: ZoneMinder
+
+[ZoneMinder](https://zoneminder.com/)
 
 I've been researching this project for a couple of years, and had set up ZoneMinder in the past, but never moved to the "installing cameras" part of the project.
 
 ***Let's see how we build that!***
 
 ## Install ZoneMinder Software
+
+[ZoneMinder Documentation: Installation Guide](https://zoneminder.readthedocs.io/en/stable/installationguide/index.html)
+
 
 
 ## Perform a Site Survey: Not Optional!
