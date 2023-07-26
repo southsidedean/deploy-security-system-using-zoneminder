@@ -74,3 +74,28 @@ I've been researching this project for a couple of years, and had set up ZoneMin
 ![Camera Configuration: General](images/Cam_Configuration_General.png)
 
 ![Camera Configuration: Source](images/Cam_Configuration_Source.png)
+
+![Console: Cameras Configured](images/Console.png)
+## Add Cameras to Groups (Optional)
+
+![Cameras: Add to Groups](images/Groups.png)
+
+## Define Camera Zones
+
+
+
+## Configure Montage View
+
+![Configure Montage View](images/Montage.png)
+
+
+***That's it!***
+
+
+## Summary
+
+In this tutorial, we...
+
+Enjoy!
+
+***Tom Dean***
