@@ -60,14 +60,17 @@ I've been researching this project for a couple of years, and had set up ZoneMin
 ## Install ZoneMinder Software
 
 
-## Install Cameras
+## Perform a Site Survey
+
+
+## Cameras: Physical Installation/Wiring
 
 
 ## Configure Cameras on the Network
 
 
 
-## Configure Cameras in ZoneMinder
+## Add Cameras to ZoneMinder
 
 
 
