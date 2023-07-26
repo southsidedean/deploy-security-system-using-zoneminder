@@ -82,7 +82,11 @@ I've been researching this project for a couple of years, and had set up ZoneMin
 
 ## Define Camera Zones
 
+![Zone Example 1: Partial Zone](images/Zone_Partial_1.png)
 
+![Zone Example 2: Partial Zone](images/Zone_Partial_2.png)
+
+![Zone Example 3: Full Zone](images/Zone_Full_1.png)
 
 ## Configure Montage View
 
