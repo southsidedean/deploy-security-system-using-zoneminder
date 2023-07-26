@@ -174,7 +174,15 @@ Once the cameras are on the network...
 
 
 
-## Configure GPU Support: *Work in Progress*
+
+***That's it!***
+
+## Loose Ends: *Work in Progress*
+
+### Install/Configure the Final Camera
+
+
+### Configure GPU Support
 
 
 
@@ -185,8 +193,6 @@ Once the cameras are on the network...
 ![Camera Configuration: Source](images/Cam_Configuration_Source.png)
 
 
-
-***That's it!***
 
 ## Summary
 
