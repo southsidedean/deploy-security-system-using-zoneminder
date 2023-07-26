@@ -177,20 +177,31 @@ Once the cameras are on the network...
 
 ***That's it!***
 
-## Loose Ends: *Work in Progress*
+## Loose Ends
 
+As with any large-scale project, I'm still working on a few things.
 ### Install/Configure the Final Camera
 
+All of the garage-based cameras have been installed, configured, and are online.  The final camera needs to be installed on the front porch.  This will involve pulling a fresh network cable run, and after all the garage work, and with temperatures in the 90s this week, I've put it on hold.  I'll get to it when I get a nice day and have the energy.
+### Configure GPU Support: *Work in Progress*
 
-### Configure GPU Support
+The server has an NVIDIA GeForce GTX 1660 Ti GPU in it, and I wanted to offload some of the processing to it.  I poked around the Internet and found some bits and pieces on enabling CUDA support for ZoneMinder.
 
-
+High-Level Takeaways:
+- Requires configuration in two places
+    - Globally via the System...
+    - On each monitor, via the...
+    - Requires CUDA support compliled in `ffmpeg`
 
 ![Configure CUDA globally](images/System_CUDA.png)
 
 
 
 ![Camera Configuration: Source](images/Cam_Configuration_Source.png)
+
+
+
+### Fine-Tune ZoneMinder
 
 
 
