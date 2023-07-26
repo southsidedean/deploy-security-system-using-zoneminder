@@ -25,9 +25,7 @@ In this tutorial, I'm not going to provide a step-by-step guide, because of the 
 ## High-Level Thinking
 
 
-### Hardware
-
-#### ZoneMinder Server
+### Hardware: ZoneMinder Server
 
 I started with a **Dell Precision T3500** workstation that I use as a general-purpose server in my lab:
 
@@ -58,7 +56,7 @@ I have a **Dell Precision T5500** workstation sitting under my desk, which I rec
 
 The workstation was already up and running with Ubuntu 22.04, mostly idle, serving as an development server.  Yes, it's kind of old, but it's still a trooper, like me.
 
-#### Security Cameras
+### Hardware: Security Cameras
 
 [Amazon: Amcrest 5MP AI Turret IP PoE Camera w/ 49ft Nightvision](https://www.amazon.com/dp/B0BNM2SGPS)
 
@@ -71,6 +69,14 @@ The workstation was already up and running with Ubuntu 22.04, mostly idle, servi
 ![All the cameras!](images/Cameras.jpeg)
 
 
+
+### Hardware: Network
+
+[Amazon: TP-Link TL-SG1005P 5 Port Gigabit PoE Switch 4 PoE+ Ports @65W](https://www.amazon.com/dp/B076HZFY3F)
+
+
+
+![New network installed in the garage!](images/Network.jpeg)
 
 ### NVR Software: ZoneMinder
 
@@ -105,11 +111,7 @@ Proper planning...
 
 ## Configure Cameras on the Network
 
-[Amazon: TP-Link TL-SG1005P 5 Port Gigabit PoE Switch 4 PoE+ Ports @65W](https://www.amazon.com/dp/B076HZFY3F)
 
-
-
-![New network installed in the garage!](images/Network.jpeg)
 
 General Network Considerations:
 
