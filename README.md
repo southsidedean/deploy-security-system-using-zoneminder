@@ -97,7 +97,7 @@ I've been researching this project for a couple of years, and had set up ZoneMin
 [ZoneMinder Documentation: Installation Guide](https://zoneminder.readthedocs.io/en/stable/installationguide/index.html)
 
 
-1[ZoneMinder Online!](images/ZoneMinder_Online.jpeg)
+![ZoneMinder Online!](images/ZoneMinder_Online.jpeg)
 
 
 ## Perform a Site Survey: Not Optional!
