@@ -4,15 +4,16 @@
 
 ## Introduction
 
-When I moved into our house five years ago...
+When we moved into our house five years ago...
 
 
 
-In this tutorial, I'm not going to provide a step-by-step guide, as there are many variables, depending on your cameras, house and technical environment.  I will point out the high-level considerations, where I ran into issues and will document any resources I used for the project in this repository.
+In this tutorial, I'm not going to provide a step-by-step guide, because of the many variables, including cameras, house construction and technical concerns.  I will point out the high-level considerations, where I ran into issues and will document any resources I used for the project in this repository.
 
 ***Let's go!***
 
 ## High-Level Thinking
+
 
 ### Hardware
 
@@ -50,7 +51,7 @@ The workstation was already up and running with Ubuntu 22.04, mostly idle, servi
 #### Security Cameras
 
 
-### Software
+### NVR Software: ZoneMinder
 
 I've been researching this project for a couple of years, and had set up ZoneMinder in the past, but never moved to the "installing cameras" part of the project.
 
@@ -62,7 +63,7 @@ I've been researching this project for a couple of years, and had set up ZoneMin
 ## Install Cameras
 
 
-## Configure Cameras
+## Configure Cameras on the Network
 
 
 
