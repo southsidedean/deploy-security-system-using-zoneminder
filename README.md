@@ -8,6 +8,8 @@ When we moved into our house five years ago...
 
 
 
+![ZoneMinder: Montage view at night](images/Montage_Night.png)
+
 In this tutorial, I'm not going to provide a step-by-step guide, because of the many variables, including cameras, house construction and technical concerns.  I will point out the high-level considerations, where I ran into issues and will document any resources I used for the project in this repository.
 
 ***Let's go!***
@@ -68,8 +70,6 @@ The workstation was already up and running with Ubuntu 22.04, mostly idle, servi
 
 [Amazon: Amcrest NV4108E-A2 4K 8CH POE NVR (1080p/3MP/4MP/5MP/8MP) POE Network Video Recorder](https://www.amazon.com/Amcrest-NV4108E-HS-1080p-Network-Recorder/dp/B0743WP62Q)
 
-[Amazon: TP-Link TL-SG1005P 5 Port Gigabit PoE Switch 4 PoE+ Ports @65W](https://www.amazon.com/dp/B076HZFY3F)
-
 
 
 ### NVR Software: ZoneMinder
@@ -85,14 +85,31 @@ I've been researching this project for a couple of years, and had set up ZoneMin
 [ZoneMinder Documentation: Installation Guide](https://zoneminder.readthedocs.io/en/stable/installationguide/index.html)
 
 
+1[ZoneMinder Online!](images/ZoneMinder_Online.jpeg)
+
 
 ## Perform a Site Survey: Not Optional!
 
-
+Proper planning...
 ## Cameras: Physical Installation/Wiring
 
 
+
+![West side cameras installed!](images/West_Cameras.jpeg)
+
+![East patio camera installed!](images/East_Camera_Far.jpeg)
+
+![Alleyway camera installed!](images/Alleyway_Camera_Close.jpeg)
+
+
+
 ## Configure Cameras on the Network
+
+[Amazon: TP-Link TL-SG1005P 5 Port Gigabit PoE Switch 4 PoE+ Ports @65W](https://www.amazon.com/dp/B076HZFY3F)
+
+
+
+![New network installed in the garage!](images/Network.jpeg)
 
 General Network Considerations:
 
@@ -103,6 +120,8 @@ General Network Considerations:
     - Makes setup, configuration and maintenance easier
 
 Once the cameras are on the network...
+
+***Now we're ready to add the cameras to ZoneMinder!***
 ## Add Cameras to ZoneMinder
 
 
@@ -135,6 +154,19 @@ Once the cameras are on the network...
 ## Configure Montage View
 
 ![Configure Montage View](images/Montage.png)
+
+
+
+## Configure GPU Support: *Work in Progress*
+
+
+
+![Configure CUDA globally](images/System_CUDA.png)
+
+
+
+![Camera Configuration: Source](images/Cam_Configuration_Source.png)
+
 
 
 ***That's it!***
