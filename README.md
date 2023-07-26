@@ -25,7 +25,7 @@ In this tutorial, I'm not going to provide a step-by-step guide, because of the 
 ## High-Level Thinking
 
 
-### Hardware: ZoneMinder Server
+## Hardware: ZoneMinder Server
 
 I started with a **Dell Precision T3500** workstation that I use as a general-purpose server in my lab:
 
@@ -56,7 +56,7 @@ I have a **Dell Precision T5500** workstation sitting under my desk, which I rec
 
 The workstation was already up and running with Ubuntu 22.04, mostly idle, serving as an development server.  Yes, it's kind of old, but it's still a trooper, like me.
 
-### Hardware: Security Cameras
+## Hardware: Security Cameras
 
 [Amazon: Amcrest 5MP AI Turret IP PoE Camera w/ 49ft Nightvision](https://www.amazon.com/dp/B0BNM2SGPS)
 
@@ -64,13 +64,13 @@ The workstation was already up and running with Ubuntu 22.04, mostly idle, servi
 
 [Amazon: Amcrest Store](https://www.amazon.com/stores/Amcrest/page/2404E471-79FC-4D18-B767-8777D048264F)
 
-[Amazon: Amcrest NV4108E-A2 4K 8CH POE NVR (1080p/3MP/4MP/5MP/8MP) POE Network Video Recorder](https://www.amazon.com/Amcrest-NV4108E-HS-1080p-Network-Recorder/dp/B0743WP62Q)
+
 
 ![All the cameras!](images/Cameras.jpeg)
 
 
 
-### Hardware: Network
+## Hardware: Network
 
 [Amazon: TP-Link TL-SG1005P 5 Port Gigabit PoE Switch 4 PoE+ Ports @65W](https://www.amazon.com/dp/B076HZFY3F)
 
@@ -78,11 +78,17 @@ The workstation was already up and running with Ubuntu 22.04, mostly idle, servi
 
 ![New network installed in the garage!](images/Network.jpeg)
 
-### NVR Software: ZoneMinder
+## NVR Software: ZoneMinder
 
 [ZoneMinder](https://zoneminder.com/)
 
 I've been researching this project for a couple of years, and had set up ZoneMinder in the past, but never moved to the "installing cameras" part of the project.
+
+## NVR Alternative: Amcrest
+
+[Amazon: Amcrest NV4108E-A2 4K 8CH POE NVR (1080p/3MP/4MP/5MP/8MP) POE Network Video Recorder](https://www.amazon.com/Amcrest-NV4108E-HS-1080p-Network-Recorder/dp/B0743WP62Q)
+
+
 
 ***Let's see how we build that!***
 
