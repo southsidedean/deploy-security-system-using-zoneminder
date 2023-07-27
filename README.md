@@ -4,7 +4,7 @@
 
 ## Introduction
 
-When we moved into our house five years ago...
+Installing security cameras and a video recording server was one of the projects that made the list of things to do when we moved into our house five years ago.
 
 
 
@@ -39,9 +39,7 @@ I started with a **Dell Precision T3500** workstation that I use as a general-pu
     - Private/Data/Application Network
 - 24GB of RAM
 
-I experimented with this server for a day, and ran into performance issues.  The server ran out of RAM and went into swap, and I had pretty significant iowaits, which caused significant impact to performance.  I wasn't happy with this setup, so I configured a new instance of ZoneMinder on another more powerful machine in my lab.
-
-I have a **Dell Precision T5500** workstation sitting under my desk, which I recently upgraded:
+I experimented with this server for a day, and ran into performance issues.  The server ran out of RAM and went into swap, and I had pretty significant iowaits, which caused significant impact to performance.  I wasn't happy with this setup, so I configured a new instance of ZoneMinder on a more powerful machine in my lab, a **Dell Precision T5500** workstation sitting under my desk, which I recently upgraded:
 
 - Ubuntu 22.04
 - Dual six-core Xeons
